@@ -3,11 +3,11 @@
 
 # Quantitative Economics Workshop
 
-
+The first Quantitative Economics Workshop in Paris will take place ons September 12,13,14 at the CREST.
 
 The goal of the workshop is to stimulate community exchanges around the use of opensource tools for structural economics, especially at the new intersection of micro and macro models.
 
-It will *introduce* theory and practice of modern dynamic programming, the building blocks of heterogenous agents, as well as some elements of optimal transport problems in economics.
+Participants will be exposed to theory and practice of modern dynamic programming, the building blocks of heterogenous agents, as well as some elements of optimal transport problems in economics.
 
 Mornings will be devoted to computational lectures that will systematically rely on interactive notebooks that students can run and modify. Examples will be shown in Python and/or Julia depending on the applications. A general familiarity with programming concepts is advised but Python or Julia. 
 
@@ -15,7 +15,7 @@ PhD students or researchers are equally welcome. Attendance is free but limited.
 
 Confirmed speakers include Edouard Challe (EUI), Beatrice Cherrier (CREST), Alfred Gallichon (NYU Paris, [Math+Econ+Code](https://www.math-econ-code.org/)), John Stachurski (ANU/[QuantEcon](https://quantecon.org/)), Pablo Winant (ESCP/CREST/[T2M](https://www.t2m.network/))
 
-Workshop will be hosted by the CREST.  (Accomodation: I need to check how much I can promise there.)
+  (Accomodation: I need to check how much I can promise there.)
 
 ---
 
