@@ -39,14 +39,16 @@ Confirmed speakers include Edouard Challe (EUI), Beatrice Cherrier (CREST), Alfr
     
 - Day 2:
 
-    - 9:00-12:30  Time Iteration Variants (Pablo Winant)
-        - perturbation analysis
-        - time iteration, improved time-iteration
-        - endogenous grid points methods
+    - 9:00-12:30  Solving Nonlinear Models with Julia (Pablo Winant)
+        - time iteration variants
+          - perturbation analysis
+          - time iteration, improved time-iteration
+          - (endogenous grid points methods)
+        - towards heterogenous agents models
 
-    - 13:30-14:45 Introduction to Heterogenous Agents litterature (Edouard Challe)
+    - 13:30-14:45 (Mostly) Nontechnical Introduction to Heterogenous Agents litterature (Edouard Challe)
 
-    - 15:00-16:00 Solving Heterogeneous Agents Models (Pablo Winant)
+    - 15:00-16:00 Student presentations
 
 - Day 3:    
 
