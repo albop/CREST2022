@@ -17,6 +17,9 @@ Confirmed speakers include Edouard Challe (EUI), Beatrice Cherrier (CREST), Alfr
 
   (Accomodation: I need to check how much I can promise there.)
 
+About our partners:
+- [QuantEcon](https://quantecon.org/) QuantEcon is an organization, founded in 2016 by John Stachurski and Tom Sargent, for the promotion, documentation and development of open source code for economics, finance and related fields.  QuantEcon hosts online lectures, forums and community content, and also runs workshops on open source scientific computing.
+
 ---
 
 ## Preliminary Program
