@@ -1,5 +1,5 @@
 
-![](qe-logo-large.png)  ![](logotransparent.webp)
+![](qe-logo-large.png)  ![](logotransparent.webp) ![](t2m.png)
 
 # Quantitative Economics Workshop
 
@@ -9,7 +9,7 @@ The goal of the workshop is to stimulate community exchanges around the use of o
 
 Participants will be exposed to theory and practice of modern dynamic programming, the building blocks of heterogenous agents, as well as some elements of optimal transport problems in economics.
 
-Mornings will be devoted to computational lectures that will systematically rely on interactive notebooks that students can run and modify. Examples will be shown in Python and/or Julia depending on the applications. A general familiarity with programming concepts is advised but Python or Julia. 
+Mornings will be devoted to computational lectures that will systematically rely on interactive notebooks that students can run and modify. Examples will be shown in Python and/or Julia depending on the applications. A general familiarity with programming concepts is advised but Python or Julia knowledge is not required.
 
 PhD students or researchers are equally welcome. Attendance is free but limited. If you wish to register or need any additional information please write to workshop@t2m.network
 
