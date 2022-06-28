@@ -49,7 +49,7 @@ About our partners:
           - (endogenous grid points methods)
         - towards heterogenous agents models
 
-    - 13:30-14:45 (Mostly) Nontechnical Introduction to Heterogenous Agents litterature (Edouard Challe)
+    - 13:30-14:45 (Mostly) Nontechnical Introduction to Heterogenous Agents Models: "Individual risk, inequality, and monetary policy" (Edouard Challe)
 
     - 15:00-16:00 Student presentations
 
