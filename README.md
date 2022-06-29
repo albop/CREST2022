@@ -15,7 +15,7 @@ Participants will be acquainted with theory and practice of modern dynamic progr
 Mornings will be devoted to computational lectures that will systematically rely on interactive notebooks that students can run and modify. Examples will be shown in Python and/or Julia depending on the applications. A general familiarity with programming concepts is advised but Python or Julia. 
 
 
-PhD students as well as interested researchers are welcome. Attendance is free, space permitting. If you wish to register or need any additional information please write to workshop@t2m.network . There is also a devoted budget to partially cover accomodation expenses for PhD students traveling to Paris, please contact us if you wish to to apply for it.
+PhD students as well as interested researchers are welcome. Attendance is free, space permitting. If you wish to register or need any additional information please write to ![organizers@t2m.network](mailto:organizers@t2m.network) . There is also a devoted budget to partially cover accomodation expenses for PhD students traveling to Paris, please contact us if you wish to to apply for it.
 
 
 About our partners:
