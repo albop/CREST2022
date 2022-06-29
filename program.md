@@ -1,4 +1,3 @@
-
 ![](qe-logo-large.png)  ![](logotransparent.webp)
 
 # Quantitative Economics Workshop
