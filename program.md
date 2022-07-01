@@ -24,7 +24,7 @@ About our partners:
 ## Preliminary Program
 
 
-- Day 1: 
+- __Day 1__: 
 
     - 9:00-12:30  Modern Dynamic Programming (John Stachurski)
         - Basic scientific computing in Python (Numpy / Scipy / Matplotlib)
@@ -32,31 +32,29 @@ About our partners:
         - Quick tour of modern dynamic programming (MDPs, recursive preferences, etc.)
 
     - 13:30-14:45 History lesson (Beatrice Cherrier)
-        "How computational resources changed the face of economics"
+        - "How computational resources changed the face of economics"
     
     - 15:00-16:00  Performance tricks for Dynamic Programming (John Stachurski)
         - Parallel programming on the GPU via JAX
         - Using the JIT compiler (Numba)
         - Parallel computing on the CPU (implicit multithreading in Numpy, Numba, JAX)
     
-- Day 2:
+- __Day 2__:
 
     - 9:00-12:30  Solving Nonlinear Models with Julia (Pablo Winant)
-        - time iteration variants
-          - perturbation analysis
-          - time iteration, improved time-iteration
-          - (endogenous grid points methods)
-        - towards heterogenous agents models
+        - perturbation analysis
+        - time iteration, improved time-iteration
+        - (endogenous grid points methods)
 
-    - 13:30-14:45 (Mostly) Nontechnical Introduction to Heterogenous Agents Models: "Individual risk, inequality, and monetary policy" (Edouard Challe)
+    - 13:30-14:45 (Mostly) Nontechnical Introduction to Heterogenous Agents Models (Edouard Challe)
+        - "Individual risk, inequality, and monetary policy" 
 
-    - 15:00-16:00 Student presentations
+    - 15:00-16:00 Solving Heterogenous Agents Models (Pablo Winant)
 
-- Day 3:    
+- __Day 3__:    
 
-    - 9:00-12:30 Introduction to Optimal Transport (Alfred Gallichon)
+    - 9:00-12:30 Introduction to Optimal Transport (Alfred Galichon)
 
     - 13:30-14:45 Student presentations  
 
-    - 15:00-16:00 Optimal Transport: Economic applications (Alfred Gallichon)
-
+    - 15:00-16:00 Optimal Transport: Economic applications (Alfred Galichon)
