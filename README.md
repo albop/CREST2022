@@ -1,4 +1,4 @@
-| ![](qe-og-logo.png)      | ![](math_econ_code.png ) |
+| ![](logos/qe-og-logo.png)      | ![](logos/math_econ_code.png ) |
 | ------------------------ | ------------------------ |
 
 # Quantitative Economics Workshop
@@ -66,6 +66,6 @@ About our partners:
 
 ## Sponsors:
 
-| ![](Logo-Crest-color.png)      | ![](t2m.png )            |
+| ![](logos/Logo-Crest-color.png)      | ![](logos/t2m.png )            |
 | ------------------------------ | ------------------------ |
-|  ![](logo_ofce.png)            |  ![](logo_cepremap.svg)  |
+|  ![](logos/logo_ofce.png)            |  ![](logos/logo_cepremap.svg)  |
