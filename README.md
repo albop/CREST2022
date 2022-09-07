@@ -26,7 +26,9 @@ About our partners:
 
 ## Preliminary Program
 
-- __Day 1__: 
+- __Day 1__: room 1003
+
+    - 8:45 Welcome coffee
 
     - 9:00-12:30  Modern Dynamic Programming (John Stachurski)
         - Basic scientific computing in Python (Numpy / Scipy / Matplotlib)
