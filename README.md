@@ -41,6 +41,8 @@ About our partners:
         - Using the JIT compiler (Numba)
         - Parallel computing on the CPU (implicit multithreading in Numpy, Numba, JAX)
     
+    - 17:30 Barbecue party
+    
 - __Day 2__:
 
     - 9:00-12:30  Solving Nonlinear Models with Julia (Pablo Winant)
@@ -52,6 +54,10 @@ About our partners:
         - "Individual risk, inequality, and monetary policy" 
 
     - 15:00-16:00 Solving Heterogenous Agents Models (Pablo Winant)
+
+    - 16:30 Board Games
+
+    - 18:30 Free socializing...
 
 - __Day 3__:    
 
