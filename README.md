@@ -63,11 +63,16 @@ About our partners:
 
 - __Day 3__:    
 
-    - 9:00-12:30 Introduction to Optimal Transport (Alfred Galichon)
+    - 9:00-10:00 Introduction to Optimal Transport (Alfred Galichon)
+        - Monge-Kantorovich duality, equilibrium and optimality, matching models with transferable utility
+
+    - 10:00-12:30 Entropy regularized Optimal Transport (Alfred Galichon)
+        - Becker meets McFadden: incorporating unobservable heterogeneity in matching models
 
     - 13:30-14:45 Student presentations  
 
-    - 15:00-16:00 Optimal Transport: Economic applications (Alfred Galichon)
+    - 15:00-16:00 Inverse Optimal Transport (Alfred Galichon)
+        - econometrics of matching models
 
 
 ---
