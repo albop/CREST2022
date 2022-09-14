@@ -69,9 +69,7 @@ About our partners:
     - 10:00-12:30 Entropy regularized Optimal Transport (Alfred Galichon)
         - Becker meets McFadden: incorporating unobservable heterogeneity in matching models
 
-    - 13:30-14:45 Student presentations  
-
-    - 15:00-16:00 Inverse Optimal Transport (Alfred Galichon)
+    - 13:30-14:30 Inverse Optimal Transport (Alfred Galichon)
         - econometrics of matching models
 
 
